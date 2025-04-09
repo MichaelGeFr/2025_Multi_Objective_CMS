@@ -1,6 +1,4 @@
-# Project Title
-
-Project for the CMS 2025 conference in Enschede.
+# CMS 2025 conference in Enschede
 
 ## Usage
 
