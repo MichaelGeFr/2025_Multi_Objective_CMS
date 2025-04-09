@@ -1,21 +1,10 @@
 # Project Title
 
-Insert a short project description here
+Project for the CMS 2025 conference in Enschede.
 
 ## Usage
 
-__When using this template it is imperative to switch ALL mentions of "package_name" in the configuration to the name you are actually going to call your project. Also rename the "package_name" folder to your chosen name.__
-
-Here you should give a short introduction on how to use your project
-
-## Development
-If you want to perform development work, you have to install Poetry. See the [eta-utility docs](https://eta-utility.readthedocs.io/en/main/guide/development.html) for more information.
-
-### Using internal connectors
-If you want to use the eta-utility internal connectors, ask your supervisor for the wheel (.whl) file and copy it to a folder called "wheels" inside the project folder.
-Then you have to add it via Poetry:
-
-    poetry add "./wheels/eta_utility_internal_connectors-0.1b2-py3-none-any.whl"
+in moo_oven.py the multi-objective optimization code based on pymoo is available. In plotting the presented plots are available. 
 
 ### Installation
 To install the project along with its development dependencies, execute the following command:
